@@ -1,0 +1,54 @@
+.hero-section {
+	padding-top: 145px;
+    max-width: 637px;
+    margin: 0 auto;
+}
+
+.bgimg {
+	    min-height:100%;
+    background-attachment: fixed;
+
+    background-size: cover;
+    -moz-background-size: cover;
+}
+
+
+.paragraph{
+	padding-top: 160px;
+}
+
+.main_button {
+	background-color: #C271FF;
+	border: none;
+}
+
+.main_button:hover, .main_button:active {
+	background-color: #C271FF;
+    opacity: 0.9;
+}
+
+mark {
+    color:#C271FF;
+    
+}
+
+.star {
+	width: 25px; 
+	height: auto;
+}
+
+.card-img-top{
+	  display: block;
+  width: 100%;
+  height: auto;
+}
+
+.icon__size{
+	  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 100%;
+  width: 100%;
+}
